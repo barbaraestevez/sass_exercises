@@ -6,6 +6,8 @@ body {
   font-family: $font-main;
 }
 .main {
+  height: 50vh;
+  background-color: aquamarine;
   display: flex;
   align-items: center;
   justify-content: center;
